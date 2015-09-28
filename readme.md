@@ -1,5 +1,5 @@
 
-Lazy Mofo Data Grid
+Lazy Mofo Data Grid - Russian fork
 ===================
 
 current version: 2015-09-21 
